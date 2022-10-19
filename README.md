@@ -1,1 +1,2 @@
-# bren-calculator
+# internship-program
+For all internship program projects
